@@ -2,10 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster);
 
 /*!
- * Clean v2.0.0
- * Homepage: http://scripteden.com
- * Copyright 2015 Script Eden
- * Licensed under MIT
+ * Ruiseco Law
 */
 
 body {
@@ -956,6 +953,13 @@ figure.effect-bubba:hover p {
 	margin-left: 3em;
 }
 
+/* Extra Clases1 */
+
+.flag-icon {
+	height: 12px;
+	width: 12px;
+}
+
 /* Example for media query */
 @media screen and (max-width: 30.6em) { 
 
@@ -968,4 +972,3 @@ figure.effect-bubba:hover p {
 	}
 
 }
-
